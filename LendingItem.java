@@ -35,6 +35,7 @@ public class LendingItem {
 	/**
 	@return The brief description of each item.
 	*/
+	// hahahaha
 	public String getDescription(){return DESCRIPTION;}
 	/**
 	@return  The original price of the item.
