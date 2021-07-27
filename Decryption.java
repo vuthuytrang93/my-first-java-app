@@ -5,7 +5,6 @@ This class works as  a codebreaker
 
 import java.util.*;
 
-//wtf
 
 public class Decryption{
 	public static void main ( String [] args){
@@ -19,7 +18,6 @@ public class Decryption{
 				col = line.nextInt();
 //				System.out.println(col);
 			}
-			//?????
 			else {
 				inputCode= line.next();
 //				System.out.println(inputCode);
